@@ -1,0 +1,2 @@
+# GradeOS
+GRADEOS – Deine Notenplattform
